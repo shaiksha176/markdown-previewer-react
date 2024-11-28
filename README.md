@@ -21,7 +21,7 @@ A simple markdown previewer built with React.
 2.  Run `npm install` to install dependencies
 3.  Run `npm run dev` to start the react app
 4.  Open `http://localhost:5173` in your browser to view the app
-5.  Copy and paste markdown text into the editor to see the live preview
+5.  Either Copy and paste markdown text into the editor or type to see the live preview
 
 
 ### Technologies Used
